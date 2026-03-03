@@ -1,0 +1,10 @@
+.App {
+  padding: 30px;
+}
+
+.ProseMirror {
+  border: 1px solid #ccc;
+  padding: 15px;
+  min-height: 200px;
+  border-radius: 8px;
+}
