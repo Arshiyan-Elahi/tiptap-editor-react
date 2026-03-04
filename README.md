@@ -75,7 +75,7 @@ The toolbar uses `useEditorState()` to track active formatting states and enable
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/tiptap-editor.git
+git clone https://github.com/Arshiyan-Elahi/tiptap-editor-react
 ```
 
 Go into the project folder:
